@@ -17,5 +17,3 @@ Aplikacja biura podróży.
 - kierunek 1
 - kierunek 2
 - kierunek 3
-
-doatkowy test
