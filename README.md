@@ -12,3 +12,10 @@ Aplikacja biura podróży.
 | Imię | Rola |
 | --- | --- |
 | Adele Vance | opiekun projektu |
+
+## Oferta
+- kierunek 1
+- kierunek 2
+- kierunek 3
+
+doatkowy test
